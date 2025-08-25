@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "demo-blog",
+    "section": "",
+    "text": "welcome to demo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 24, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 21, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome-to-demo/index.html",
+    "href": "posts/welcome-to-demo/index.html",
+    "title": "welcome to demo",
+    "section": "",
+    "text": "Here we are looking at 3 published communication pieces in various format:"
+  },
+  {
+    "objectID": "posts/welcome-to-demo/index.html#article-mapping-australias-childcare-blackspots",
+    "href": "posts/welcome-to-demo/index.html#article-mapping-australias-childcare-blackspots",
+    "title": "welcome to demo",
+    "section": "Article: Mapping Australia’s childcare blackspots",
+    "text": "Article: Mapping Australia’s childcare blackspots\nThe article I have chosen here is “Mapping Australia’s childcare blackspots” with a link to online ABC news provided here.\nThe article explores the shortage of childcare places in Australia, particularly in regional and remote areas where demand far exceeds supply. It highlights how unequal geographical access limits families’ economic opportunities and undermines children’s access to early education, with consequences for broader social and economic growth.\nThe background is in the opening section (the first seven paragraph), where parents in towns such as Armidale describe the frustration of securing childcare that matches full-time work. This provides context for why the issue matters: it sets up the idea that the childcare shortage is not just an individual inconvenience, but a systemic problem affecting families and local economies.\nThe lede is the use of interactive data visualization of map, which is unusual for a news article. These allow readers to explore their own community’s childcare performance across socioeconomic, educational, and language measures, making the story personally relevant.\nThe summary has been put at the end of the article:\n\nWe’ve got to start thinking about child care as infrastructure — like water, electricity, internet, and public school … We think of it as babysitting or child minding but it’s actually early education.\n\nThe article concludes by framing childcare as essential national infrastructure, comparable to water, electricity, and schooling. It emphasizes that geographical divides play a critical role, as families in regional and remote areas often have fewer childcare options, which limits both local economic growth and children’s educational opportunities. This leaves the reader with the message that early education should be treated as a public good, not just a private concern.\nThe main result of the story lies from the eight paragraph to near the end of the article:\n\nMore than 120 children under four live here, yet Alexandra has just one childcare centre, with 29 approved places. This works out to between 4.5 and 8.9 children per childcare place, depending on the neighbourhood.\n\nThese statistics make the problem concrete, showing how scarcity creates fierce competition and forces families to make difficult choices about work and care."
+  },
+  {
+    "objectID": "posts/welcome-to-demo/index.html#blog-how-does-chatgpt-work-as-explained-by-the-chatgpt-team",
+    "href": "posts/welcome-to-demo/index.html#blog-how-does-chatgpt-work-as-explained-by-the-chatgpt-team",
+    "title": "welcome to demo",
+    "section": "Blog: How does ChatGPT work? As explained by the ChatGPT team",
+    "text": "Blog: How does ChatGPT work? As explained by the ChatGPT team\nThe blog I have chosen here is “How does ChatGPT work? As explained by the ChatGPT team” with a link to online blog provided here.\nThe blog explains how ChatGPT was created by training on a large dataset of human-generated text, and how it uses statistical patterns to predict the next most likely word in a sequence. While it does not “think” like a human, the engineering behind it allows ChatGPT to generate surprisingly human-like responses.\nThe first four paragraphs provide background on OpenAI and the goals of ChatGPT’s development. This includes scaling the system, keeping it safe, and aligning it with broader research into artificial general intelligence (AGI). This context is important because it shows that ChatGPT is not just a one-off tool, but part of a longer-term research and development process.\nThe lede is implied in the title itself: How does ChatGPT work? This framing captures the reader’s attention and sets up the expectation of a clear, accessible explanation. This approach is typical of online blogs, where readers want immediate and direct answers to their questions.\nThe middle of the article summarises how ChatGPT works:\n\nFor a sense of ChatGPT’s limitations, you need to understand how it works. ChatGPT and other LLMs do not “think” and “understand” like humans. ChatGPT does, however, generate words based on what the next most likely word should be, looking at the input, and everything generated so far.\n\nIt explains that while ChatGPT generates highly convincing text, it does so by predicting the next most likely word based on patterns, not by “understanding” in a human sense. This matters for readers because it sets realistic expectations of what the model can and cannot do.\nThe main result is located near the end of the blog:\n\nThe specific engineering of ChatGPT has made it quite compelling. But ultimately (at least until it can use outside tools) ChatGPT is “merely” pulling out some “coherent thread of text” from the “statistics of conventional wisdom” that it’s accumulated. But it’s amazing how human-like the results are.\n\nPlacing this conclusion at the end ensures the reader is left with a balanced impression: ChatGPT’s engineering achievements are impressive, but the system is not a replacement for human thought or reasoning."
+  },
+  {
+    "objectID": "posts/welcome-to-demo/index.html#video-we-analysed-4678387-nba-shots",
+    "href": "posts/welcome-to-demo/index.html#video-we-analysed-4678387-nba-shots",
+    "title": "welcome to demo",
+    "section": "Video: We analysed 4,678,387 NBA shots",
+    "text": "Video: We analysed 4,678,387 NBA shots\nThe video I have chosen here is “We analysed 4,678,387 NBA shots” with a link to a youtube video provided here.\nThe video analyses how NBA players’ three-point shooting behaviour has changed between 1997 and 2020. It highlights how data-driven insights have influenced the way players and coaches think about three-point shooting strategy and decision-making in games.\nFrom the beginning of the video up to around 1:22, the presenter frames the central question: has there been a strategic change in three-point shooting since 2010? This background is important because it shows that the analysis is not just about raw numbers, but about broader shifts in how the game of basketball evolves over time. It sets up why understanding these changes matters for players, coaches, and fans.\nThe lede is in the video’s title itself: “We analysed 4,678,387 NBA shots.” This immediately captures attention by emphasising the scale of the dataset, suggesting the findings will be significant and grounded in evidence. This style of lede is common for online video content, where titles must stand out to attract viewers and their click.\nThe middle of the video (around 15:00–15:30) explains the key findings: data has directly influenced how players and coaches approach three-point shooting. The evidence shows that three-point shots now play a central role in NBA game strategy, because they provide a higher expected return compared to mid-range shots. This is important for viewers because it connects statistical insights with visible changes in how basketball is played.\nThe main result is presented near the end of the video (18:51–19:10), where the presenter reflects on what the data means for the future of the NBA. By placing this conclusion at the end, the video leaves viewers with the central takeaway: the way basketball is played has been fundamentally reshaped by data, and how reliable those assumptions are will continue to shape the sport."
+  }
+]
